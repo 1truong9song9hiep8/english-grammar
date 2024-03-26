@@ -14,7 +14,15 @@ Sở hữu cách là cách thể hiện sự sở hữu của vật thể. Chún
 ### Diễn đạt sở hữu cách với *'s*
 Thêm **'s** vào cuối danh từ số ít và danh từ số nhiều không tận cùng bằng -s, ví dụ: my father's car, my father's car...
 
-Thêm dấu phẩy vào sau các danh từ số nhiều tận cùng bằng -s, ví dụ: My parents' house, the Smiths' car, a girls' shool...
+Thêm **'s** hoặc **'** vào cuối danh từ số ít và tên riêng tận cùng bằng -s, ví dụ: My boss's office = My boss' office = the office of my boss
+
+Thêm **'** vào sau các danh từ số nhiều tận cùng bằng -s, ví dụ: My parents' house, the Smiths' car, a girls' shool...
+
+Với danh từ ghép, thêm **'s** vào từ cuối cùng. Ví dụ: My mother-in-law's guitar, the comander-in-chief directions.
+
+Thêm 's vào các cụm từ. ví dụ: Henry the eighth's six wives
+
+Khi sử dụng sở hữu cách, các mạo từ a/an/the đứng trước vật bị sở hữu phải được bỏ. ví dụ: The daungher of the politician = the politician's daungher.
 ### Diễn đạt sở hữu cách với giới từ *of*
 
 # BÀI TẬP (EXCERCISES)
